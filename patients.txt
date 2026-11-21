@@ -1,0 +1,14 @@
+# id,name,age,severity,arrival,complaint
+2001,Grace Namukasa,21,3,1,high fever
+2002,Brian Okello,24,5,2,mild cough
+2003,Sarah Nakato,19,2,3,difficulty breathing
+2004,David Mugisha,32,4,4,sprained ankle
+2005,Esther Atim,22,1,5,severe chest pain
+2006,Moses Ssemwogerere,28,3,6,deep cut on hand
+2007,Ruth Achieng,20,5,7,headache
+2008,Peter Kato,45,2,8,severe asthma attack
+2009,Joan Nalubega,23,4,9,stomach ache
+2010,Isaac Opio,26,1,10,vomiting
+2011,Mary Auma,30,1,11,skin rash
+2012,Daniel Byaruhanga,35,1,12,fainted in class
+4000,Kevin Mugabi,40,3,14,Ulcer

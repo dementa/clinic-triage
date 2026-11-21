@@ -1,0 +1,5 @@
+clinic
+tests
+*.dSYM/
+*.o
+.DS_Store
